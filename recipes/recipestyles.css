@@ -1,0 +1,49 @@
+body {
+    background-color: #FFF5E0;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.block-one {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 1000;
+}
+
+button {
+    background-color: #D0E7D2;
+    width: 20%;
+    height: 25px;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    border: solid 10px;
+    border-color: #F39F5A;
+    border-radius: 20px;
+}
+
+hr {
+    width: 90%;
+    height: 5px;
+    background-color :#F39F5A;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+h1, h2 {
+    color: #765827;
+    font-size: 35px;
+}
+
+h3 {
+    color: #12486B;
+}
+
+.ingredients, .steps {
+    margin-left: 5%;
+    margin-top: 2%;
+}
